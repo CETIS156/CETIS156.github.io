@@ -1,0 +1,80 @@
+
+body
+{
+background-Color:#8EEAEA;
+Color: #8EBCEA;
+padding:50px;
+}
+
+h1 {
+Color: #3B86D1;
+min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+font-size: 20px;
+color: white;
+}
+
+h3 {
+Color:#3B86D1;
+}
+
+h2{
+background: #3E88DC;
+}
+
+h5 {
+Color: Red;
+}
+
+ul {
+Background: White;
+Color:black;
+Padding: 30px;
+Width: 100px;
+}
+
+
+
+ul {
+Background: White;
+Color:#3B86D1;
+Padding: 30px;
+Width: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+p.capital::first-letter {
+  float: left;
+  background-color: #F6F322;
+  color: #3B86D1;
+  font-family: times;
+  font-size: 900%;
+  font-color: #B00D0D;
+}
+
+
+
+.aparte
+{
+color:#EC7063;
+width: 260px;
+background:#FF9A9A;
+
+}
+
